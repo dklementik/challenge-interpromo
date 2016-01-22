@@ -1,0 +1,145 @@
+*{
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Proxima Nova", sans-serif;
+  font-weight: inherit;
+}
+.clear{
+  clear: both;
+}
+header a{
+  text-decoration: none;
+  list-style: none;
+  color: white;
+}
+header ul{
+  float: right;
+}
+header li{
+  float: left;
+  list-style: none;
+  padding-right: 45px;
+}
+header{
+  background-image: url(fond.png);
+  height: 600px;
+  color: white;
+  padding-top: 30px;
+  text-align: center;
+}
+header span{
+  border: 1px solid;
+  margin-right: 15px;
+  padding: 5px 5px 5px 7px;
+  font-size: 22px;
+}
+header h1{
+  padding-top: 150px;
+  padding-bottom: 15px;
+}
+header h2{
+  padding-bottom: 15px;
+}
+header h4{
+  float: left;
+  padding-left: 45px;
+  font-size: 22px;
+}
+header button{
+  text-align: center;
+  padding: 8px 80px;
+  border-radius: 5px;
+  background-color: white;
+  color: #8181B3;
+}
+.premier{
+  width: 33%;
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 85px;
+  margin-top: 78px;
+  height: 310px;
+}
+.premier h2{
+  color: #67534D;
+  padding: 30px;
+}
+p{
+  color: #797A8E;
+}
+.enveloppe{
+  border-right: 1px solid #E1E1E1;
+  border-left: 1px solid #e1e1e1;
+  width: 33%;
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 85px;
+  margin-top: 78px;
+  height: 310px;
+}
+.enveloppe h2{
+  color: #67534D;
+  padding: 30px;
+}
+.border{
+  border-bottom: 1px solid #dcdcdc;
+}
+.deux{
+  text-align: center;
+  background-color: #f6f9fb;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+#espace{
+  line-height:30px;
+}
+.dollar{
+  display: inline-block;
+  font-size: 118px;
+}
+.dollar p{
+  color: #8686C1;
+  padding: 0
+}
+.perpaid{
+  display:inline-block;
+  text-align: left;
+}
+.perpaid h2{
+  font-size: 30px;
+  color: #696059;
+}
+.trois{
+  background-color: #4C535C;
+  color: white;
+  text-align: center;
+  height: 90px;
+}
+.trois p{
+  padding: 37px;
+  font-size: 24px;
+  color: white;
+}
+.section4 img{
+  width: 49%;
+  float: left;
+  height: 480px;
+  padding: 25px;
+  border-radius: 40px;
+}
+.section4 article{
+  float: left;
+  height: 480px;
+  width: 49%;
+  padding: 150px 100px;
+}
+.bleu{
+  background-color: #7CD5EF;
+  border-radius: 0px;
+}
+.violet{
+  background-color: #8080BE;
+}
